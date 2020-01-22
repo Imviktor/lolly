@@ -5,6 +5,7 @@
   "description": "League of Legends layout for timing summoner's spells",
   "main": "dist/index.js",
   "scripts": {
+    "build": "tsc",
     "start": "tsc && electron-forge start",
     "package": "electron-forge package",
     "make": "electron-forge make",
