@@ -2,7 +2,7 @@
   "name": "lolly",
   "productName": "lolly",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "League of Legends layout for timing summoner's spells",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -13,10 +13,10 @@
   },
   "keywords": [],
   "author": {
-    "name": "martvic",
-    "email": "martvic@afis-mgmt.local"
+    "name": "Victor Martin Camarero",
+    "email": "victormartincamarero@gmail.com"
   },
-  "license": "MIT",
+  "license": "Apache-2.0",
   "config": {
     "forge": {
       "packagerConfig": {},
